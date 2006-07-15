@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Album-Wretch.t
+lib/Album/Wretch.pm

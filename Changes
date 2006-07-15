@@ -1,0 +1,6 @@
+Revision history for Perl extension Album::Wretch.
+
+0.01  Sun Jul 16 05:57:44 2006
+	- original version; created by h2xs 1.23 with options
+		-AXcfn Album::Wretch
+
